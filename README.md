@@ -3,8 +3,7 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF69B4&center=true&vCenter=true&width=500&lines=💕+Welcome+to+my+GitHub!+💕;Coding+with+Love+%26+Creativity+🌸;Keep+Growing,+Keep+Shining!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF69B4&center=true&vCenter=true&width=500&lines=💕+Welcome+to+my+GitHub!+💕;Coding+with+Love+%26+Creativity+🌸;Keep+Growing,+Keep+Shining!&font=Poppins)](https://git.io/typing-svg)
 ---
 
 <!-- GitHub Stats -->
